@@ -1,2 +1,2 @@
-# comments
-Starter for comments.
+# Comments
+Starter templates for comments.
